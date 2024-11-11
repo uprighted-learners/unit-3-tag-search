@@ -4,11 +4,11 @@
 
 ## Objective
 
-Tags are a common way of searching for data. In this lab we will be building a program that can filter an Array of books to a sub-Array that match a search term based on the tags each book contains.
+Tags are a common way of searching for data. In this exercise we will be building a program that can filter an Array of books to a sub-Array that match a search term based on the tags each book contains.
 
 ## Learning
 
-In this lab, we will practice making an `Array` of `Objects`, writing a function that can iterate over that `Array`.
+In this exercise, we will practice making an `Array` of `Objects`, writing a function that can iterate over that `Array`.
 
 - `Arrays`
 - `Objects`
@@ -22,7 +22,7 @@ In this lab, we will practice making an `Array` of `Objects`, writing a function
 
 ## Achieving
 
-In this lab, we will achieve a piece of software that can filter an array of books to return a list of books with certain tags attached to them.
+In this exercise, we will achieve a piece of software that can filter an array of books to return a list of books with certain tags attached to them.
 
 Your work will result in:
 
@@ -46,7 +46,7 @@ Your work will result in:
 
 ## Review
 
-In this lab, we made a piece of software that can filter an array of books to return a list of books based on certain tags that are attached to them.
+In this exercise, we made a piece of software that can filter an array of books to return a list of books based on certain tags that are attached to them.
 
 The software should:
 
